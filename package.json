@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jeffseverson2001/10-OOP-02-Homework#readme",
   "dependencies": {
+    "inquirer": "^8.1.1",
     "jest": "^27.0.4"
   }
 }
